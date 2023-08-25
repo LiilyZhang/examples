@@ -1,0 +1,8 @@
+{
+    "HZN_ORG_ID": "e2edev@somecomp.com",
+    "MetadataVars": {
+        "DOCKER_IMAGE_BASE": "zhangle0313/ibm.hello-k8s-secret",
+        "SERVICE_NAME": "ibm.hello-k8s-secret",
+        "SERVICE_VERSION": "1.0.0"
+    }
+}
